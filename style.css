@@ -1,0 +1,8 @@
+.jumbotron {
+    background: url("image1.jpg") no-repeat center;
+    background-size: 100%;
+}
+#contact
+{
+    background-color: darkseagreen;
+}
