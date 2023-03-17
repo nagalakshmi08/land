@@ -1,12 +1,20 @@
+body {
+    padding-top: 56px;
+}
 .jumbotron {
     background: url("image1.jpg") no-repeat center;
-    background-size: 100%;
+    background-size:100%;
 }
-#contact
-{
-    background-color: darkseagreen;
+.btn-primary {
+    background-color: #c60063;
+    border-color: #c60063;
 }
-section {
-    width: 80%;
-    margin: 80px auto;
+
+.btn-secondary {
+    background-color: transparent;
+    border-color: #c60063;
+    color: #c60063;
+}
+#contact {
+    background: url("contact.jpg") no-repeat center;
 }
