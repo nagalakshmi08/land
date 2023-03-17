@@ -1,5 +1,6 @@
 body {
     padding-top: 56px;
+    margin:0;
 }
 .jumbotron {
     background: url("image1.jpg") no-repeat center;
