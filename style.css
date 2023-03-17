@@ -3,7 +3,7 @@ body {
 }
 .jumbotron {
     background: url("image1.jpg") no-repeat center;
-    background-size:100%;
+    background-size:101%;
 }
 .btn-primary {
     background-color: #c60063;
